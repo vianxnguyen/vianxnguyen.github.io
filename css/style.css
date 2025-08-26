@@ -88,6 +88,10 @@ h1 { font-size: 28px; }
 /* a { color: #8ba9ca; text-decoration: none; } */
 a {color: inherit; text-decoration: underline; }
 
+a.icon {
+  text-decoration: none;
+}
+
 /* a:hover { color: #7790ac; } */
 
 @media (prefers-color-scheme: dark) { a { color: #3eb7f0; } }
